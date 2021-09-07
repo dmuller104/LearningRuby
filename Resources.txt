@@ -1,0 +1,12 @@
+https://github.com/dmuller104/LearningRuby
+
+
+https://www.ruby-lang.org/en/documentation/installation/
+https://www.ruby-lang.org/en/documentation/quickstart/
+
+https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0
+    downloaded vc_redist.x64.exe
+
+
+
+https://www.ruby-lang.org/en/documentation/

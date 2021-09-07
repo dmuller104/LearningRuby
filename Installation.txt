@@ -1,0 +1,6 @@
+Was trying to build from source 
+    https://www.ruby-lang.org/en/documentation/installation/
+    https://github.com/ruby/ruby/blob/master/win32/README.win32
+But I decided that it was more complex than I expected so....
+Just got the windows installer
+
